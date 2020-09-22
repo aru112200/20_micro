@@ -18,3 +18,11 @@
 
 :smile:
 :+1:
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+- [ ] todo list
+- [x] done
