@@ -1,0 +1,3 @@
+0 mouse
+1 bottle
+2 watch
